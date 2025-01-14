@@ -7,12 +7,12 @@ This repository contains the source code for a **Special Landing Page Template**
 You can check out the live version of the template here: [Special Landing Page Template](https://ayoubnsr.github.io/-Special-JS-Template/)
 
 ## Features
-- **Customizable Settings Box**: Users can toggle page themes, change background colors, and save preferences in local storage.
-- **Responsive Design**: Fully responsive layout that adapts seamlessly to various screen sizes.
-- **Interactive Sections**: Includes animated sections like "Our Skills," "Gallery," "Timeline," and "Testimonials."
-- **Popup Box**: A functional popup box to display additional content.
-- **Navigation Menu**: Responsive menu with navigation bullets and a toggle for smaller screens.
-- **Contact Us Section**: A simple form to collect user input.
+- 👉**Customizable Settings Box**: Users can toggle page themes, change background colors, and save preferences in local storage.
+- 👉**Responsive Design**: Fully responsive layout that adapts seamlessly to various screen sizes.
+- 👉**Interactive Sections**: Includes animated sections like "Our Skills," "Gallery," "Timeline," and "Testimonials."
+- 👉**Popup Box**: A functional popup box to display additional content.
+- 👉**Navigation Menu**: Responsive menu with navigation bullets and a toggle for smaller screens.
+- 👉**Contact Us Section**: A simple form to collect user input.
 
 ## How It Works
 1. **Settings Box**: The settings box allows users to toggle background colors and themes.
