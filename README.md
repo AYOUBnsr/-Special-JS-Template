@@ -4,6 +4,8 @@ This repository contains the source code for a **Special Landing Page Template**
 
 ![Opera Instantané_2025-01-14_143930_ayoubnsr github io](https://github.com/user-attachments/assets/0de2340f-387e-436c-b874-bb202f11391c)
 
+You can check out the live version of the template here: [Special Landing Page Template](https://ayoubnsr.github.io/-Special-JS-Template/)
+
 ## Features
 - **Customizable Settings Box**: Users can toggle page themes, change background colors, and save preferences in local storage.
 - **Responsive Design**: Fully responsive layout that adapts seamlessly to various screen sizes.
